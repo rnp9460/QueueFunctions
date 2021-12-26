@@ -1,7 +1,5 @@
             TTL ;Lab 10
 ;****************************************************************
-;Descriptive comment header goes here.
-;(What does the program do?)
 ;Name:  Rhythm Patel
 ;Date:  11/11/2020
 ;Class:  CMPE-250
